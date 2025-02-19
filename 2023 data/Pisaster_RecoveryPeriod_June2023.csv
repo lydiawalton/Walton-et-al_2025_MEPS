@@ -1,0 +1,577 @@
+star.ID,water.treatment,air.treatment,trial.period,rec.start.date,rec.start.time,rec.end.date,rec.end.time,rec.trial.day,rec.water.temp,rec.water.check.time,rec.water.check.date,sea.table,rec.mussels.consumed,cum.mussels,Notes,trial.type,group
+SB_2023_ind1,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,20.9,10:20,01-Jul-23,R-upper,0,7,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind1,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.6,13:15,02-Jul-23,L-lower,2,9,,Recovery,20C Group 2
+SB_2023_ind1,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,15.4,15:00,03-Jul-23,R-upper,0,9,,Recovery,20C Group 2
+SB_2023_ind1,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.3,14:05,04-Jul-23,L-lower,0,9,,Recovery,20C Group 2
+SB_2023_ind1,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.7,13:01,05-Jul-23,R-upper,0,9,,Recovery,20C Group 2
+SB_2023_ind1,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.9,13:24,06-Jul-23,L-lower,1,10,,Recovery,20C Group 2
+SB_2023_ind1,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.2,14:17,07-Jul-23,R-upper,1,11,,Recovery,20C Group 2
+SB_2023_ind1,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,L-lower,0,11,,Recovery,20C Group 2
+SB_2023_ind10,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,14.4,10:20,01-Jul-23,R-lower,1,11,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind10,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.2,13:15,02-Jul-23,L-upper,3,14,,Recovery,15C Group 2
+SB_2023_ind10,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,13.7,15:00,03-Jul-23,R-lower,1,15,,Recovery,15C Group 2
+SB_2023_ind10,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.1,14:05,04-Jul-23,L-upper,0,15,,Recovery,15C Group 2
+SB_2023_ind10,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,R-lower,1,16,,Recovery,15C Group 2
+SB_2023_ind10,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,L-upper,1,17,,Recovery,15C Group 2
+SB_2023_ind10,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.6,14:17,07-Jul-23,R-lower,0,17,,Recovery,15C Group 2
+SB_2023_ind10,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,13,14:27,08-Jul-23,L-upper,1,18,,Recovery,15C Group 2
+SB_2023_ind11,15,30,Recovery,NA,NA,NA,NA,17,NA,NA,NA,NA,NA,,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind11,15,30,Recovery,NA,NA,NA,NA,18,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind11,15,30,Recovery,NA,NA,NA,NA,19,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind11,15,30,Recovery,NA,NA,NA,NA,20,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind11,15,30,Recovery,NA,NA,NA,NA,21,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind11,15,30,Recovery,NA,NA,NA,NA,22,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind11,15,30,Recovery,NA,NA,NA,NA,23,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind11,15,30,Recovery,NA,NA,NA,NA,24,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind12,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,21,10:20,01-Jul-23,L-lower,1,5,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind12,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,14.5,13:15,02-Jul-23,R-upper,0,5,,Recovery,20C Group 1
+SB_2023_ind12,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14.4,15:00,03-Jul-23,L-lower,1,6,,Recovery,20C Group 1
+SB_2023_ind12,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,15.2,14:05,04-Jul-23,R-upper,1,7,,Recovery,20C Group 1
+SB_2023_ind12,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,14,13:01,05-Jul-23,L-Lower,1,8,,Recovery,20C Group 1
+SB_2023_ind12,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,R-upper,2,10,,Recovery,20C Group 1
+SB_2023_ind12,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.1,14:17,07-Jul-23,L-lower,1,11,,Recovery,20C Group 1
+SB_2023_ind12,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,R-upper,1,12,,Recovery,20C Group 1
+SB_2023_ind13,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,20.9,10:20,01-Jul-23,R-upper,0,9,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind13,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.6,13:15,02-Jul-23,L-lower,0,9,,Recovery,20C Group 2
+SB_2023_ind13,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,15.4,15:00,03-Jul-23,R-upper,0,9,,Recovery,20C Group 2
+SB_2023_ind13,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.3,14:05,04-Jul-23,L-lower,0,9,,Recovery,20C Group 2
+SB_2023_ind13,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.7,13:01,05-Jul-23,R-upper,0,9,,Recovery,20C Group 2
+SB_2023_ind13,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.9,13:24,06-Jul-23,L-lower,1,10,,Recovery,20C Group 2
+SB_2023_ind13,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.2,14:17,07-Jul-23,R-upper,1,11,,Recovery,20C Group 2
+SB_2023_ind13,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,L-lower,0,11,,Recovery,20C Group 2
+SB_2023_ind14,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,15.3,10:20,01-Jul-23,L-upper,0,9,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind14,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,12.8,13:15,02-Jul-23,R-lower,1,10,,Recovery,15C Group 1
+SB_2023_ind14,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14,15:00,03-Jul-23,L-upper,1,11,,Recovery,15C Group 1
+SB_2023_ind14,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,13.5,14:05,04-Jul-23,R-lower,1,12,,Recovery,15C Group 1
+SB_2023_ind14,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,L-upper,1,13,,Recovery,15C Group 1
+SB_2023_ind14,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.6,13:24,06-Jul-23,R-lower,1,14,,Recovery,15C Group 1
+SB_2023_ind14,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,13.1,14:17,07-Jul-23,L-upper,0,14,,Recovery,15C Group 1
+SB_2023_ind14,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.6,14:27,08-Jul-23,R-lower,0,14,,Recovery,15C Group 1
+SB_2023_ind15,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,20.9,10:20,01-Jul-23,R-upper,0,9,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind15,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.6,13:15,02-Jul-23,L-lower,0,9,,Recovery,20C Group 2
+SB_2023_ind15,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,15.4,15:00,03-Jul-23,R-upper,0,9,,Recovery,20C Group 2
+SB_2023_ind15,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.3,14:05,04-Jul-23,L-lower,0,9,,Recovery,20C Group 2
+SB_2023_ind15,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.7,13:01,05-Jul-23,R-upper,0,9,,Recovery,20C Group 2
+SB_2023_ind15,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.9,13:24,06-Jul-23,L-lower,1,10,,Recovery,20C Group 2
+SB_2023_ind15,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.2,14:17,07-Jul-23,R-upper,0,10,,Recovery,20C Group 2
+SB_2023_ind15,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,L-lower,0,10,,Recovery,20C Group 2
+SB_2023_ind16,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,14.4,10:20,01-Jul-23,R-lower,0,6,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind16,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.2,13:15,02-Jul-23,L-upper,1,7,,Recovery,15C Group 2
+SB_2023_ind16,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,13.7,15:00,03-Jul-23,R-lower,1,8,,Recovery,15C Group 2
+SB_2023_ind16,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.1,14:05,04-Jul-23,L-upper,1,9,,Recovery,15C Group 2
+SB_2023_ind16,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,R-lower,0,9,,Recovery,15C Group 2
+SB_2023_ind16,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,L-upper,2,11,,Recovery,15C Group 2
+SB_2023_ind16,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.6,14:17,07-Jul-23,R-lower,0,11,,Recovery,15C Group 2
+SB_2023_ind16,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,13,14:27,08-Jul-23,L-upper,0,11,,Recovery,15C Group 2
+SB_2023_ind17,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,14.4,10:20,01-Jul-23,R-lower,0,8,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind17,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.2,13:15,02-Jul-23,L-upper,1,9,,Recovery,15C Group 2
+SB_2023_ind17,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,13.7,15:00,03-Jul-23,R-lower,0,9,,Recovery,15C Group 2
+SB_2023_ind17,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.1,14:05,04-Jul-23,L-upper,0,9,,Recovery,15C Group 2
+SB_2023_ind17,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,R-lower,1,10,,Recovery,15C Group 2
+SB_2023_ind17,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,L-upper,1,11,,Recovery,15C Group 2
+SB_2023_ind17,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.6,14:17,07-Jul-23,R-lower,1,12,,Recovery,15C Group 2
+SB_2023_ind17,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,13,14:27,08-Jul-23,L-upper,0,12,,Recovery,15C Group 2
+SB_2023_ind18,15,30,Recovery,NA,NA,NA,NA,17,NA,NA,NA,NA,NA,,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind18,15,30,Recovery,NA,NA,NA,NA,18,NA,NA,NA,NA,NA,,,Recovery,15C Group 2
+SB_2023_ind18,15,30,Recovery,NA,NA,NA,NA,19,NA,NA,NA,NA,NA,,,Recovery,15C Group 2
+SB_2023_ind18,15,30,Recovery,NA,NA,NA,NA,20,NA,NA,NA,NA,NA,,,Recovery,15C Group 2
+SB_2023_ind18,15,30,Recovery,NA,NA,NA,NA,21,NA,NA,NA,NA,NA,,,Recovery,15C Group 2
+SB_2023_ind18,15,30,Recovery,NA,NA,NA,NA,22,NA,NA,NA,NA,NA,,,Recovery,15C Group 2
+SB_2023_ind18,15,30,Recovery,NA,NA,NA,NA,23,NA,NA,NA,NA,NA,,,Recovery,15C Group 2
+SB_2023_ind18,15,30,Recovery,NA,NA,NA,NA,24,NA,NA,NA,NA,NA,,,Recovery,15C Group 2
+SB_2023_ind19,15,30,Recovery,NA,NA,NA,NA,17,NA,NA,NA,NA,NA,,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind19,15,30,Recovery,NA,NA,NA,NA,18,NA,NA,NA,NA,NA,,,Recovery,15C Group 2
+SB_2023_ind19,15,30,Recovery,NA,NA,NA,NA,19,NA,NA,NA,NA,NA,,,Recovery,15C Group 2
+SB_2023_ind19,15,30,Recovery,NA,NA,NA,NA,20,NA,NA,NA,NA,NA,,,Recovery,15C Group 2
+SB_2023_ind19,15,30,Recovery,NA,NA,NA,NA,21,NA,NA,NA,NA,NA,,,Recovery,15C Group 2
+SB_2023_ind19,15,30,Recovery,NA,NA,NA,NA,22,NA,NA,NA,NA,NA,,,Recovery,15C Group 2
+SB_2023_ind19,15,30,Recovery,NA,NA,NA,NA,23,NA,NA,NA,NA,NA,,,Recovery,15C Group 2
+SB_2023_ind19,15,30,Recovery,NA,NA,NA,NA,24,NA,NA,NA,NA,NA,,,Recovery,15C Group 2
+SB_2023_ind2,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,20.9,10:20,01-Jul-23,R-upper,0,12,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind2,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.6,13:15,02-Jul-23,L-lower,1,13,,Recovery,20C Group 2
+SB_2023_ind2,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,15.4,15:00,03-Jul-23,R-upper,0,13,,Recovery,20C Group 2
+SB_2023_ind2,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.3,14:05,04-Jul-23,L-lower,1,14,,Recovery,20C Group 2
+SB_2023_ind2,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.7,13:01,05-Jul-23,R-upper,1,15,,Recovery,20C Group 2
+SB_2023_ind2,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.9,13:24,06-Jul-23,L-lower,1,16,,Recovery,20C Group 2
+SB_2023_ind2,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.2,14:17,07-Jul-23,R-upper,1,17,,Recovery,20C Group 2
+SB_2023_ind2,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,L-lower,1,18,,Recovery,20C Group 2
+SB_2023_ind20,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,20.9,10:20,01-Jul-23,R-upper,1,9,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind20,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.6,13:15,02-Jul-23,L-lower,1,10,,Recovery,20C Group 2
+SB_2023_ind20,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,15.4,15:00,03-Jul-23,R-upper,0,10,,Recovery,20C Group 2
+SB_2023_ind20,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.3,14:05,04-Jul-23,L-lower,0,10,,Recovery,20C Group 2
+SB_2023_ind20,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.7,13:01,05-Jul-23,R-upper,0,10,,Recovery,20C Group 2
+SB_2023_ind20,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.9,13:24,06-Jul-23,L-lower,0,10,,Recovery,20C Group 2
+SB_2023_ind20,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.2,14:17,07-Jul-23,R-upper,0,10,,Recovery,20C Group 2
+SB_2023_ind20,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,L-lower,1,11,,Recovery,20C Group 2
+SB_2023_ind21,20,30,Recovery,NA,NA,NA,NA,17,NA,NA,NA,NA,NA,,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind21,20,30,Recovery,NA,NA,NA,NA,18,NA,NA,NA,NA,NA,,,Recovery,20C Group 1
+SB_2023_ind21,20,30,Recovery,NA,NA,NA,NA,19,NA,NA,NA,NA,NA,,,Recovery,20C Group 1
+SB_2023_ind21,20,30,Recovery,NA,NA,NA,NA,20,NA,NA,NA,NA,NA,,,Recovery,20C Group 1
+SB_2023_ind21,20,30,Recovery,NA,NA,NA,NA,21,NA,NA,NA,NA,NA,,,Recovery,20C Group 1
+SB_2023_ind21,20,30,Recovery,NA,NA,NA,NA,22,NA,NA,NA,NA,NA,,,Recovery,20C Group 1
+SB_2023_ind21,20,30,Recovery,NA,NA,NA,NA,23,NA,NA,NA,NA,NA,,,Recovery,20C Group 1
+SB_2023_ind21,20,30,Recovery,NA,NA,NA,NA,24,NA,NA,NA,NA,NA,,,Recovery,20C Group 1
+SB_2023_ind22,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,20.9,10:20,01-Jul-23,R-upper,1,12,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind22,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.6,13:15,02-Jul-23,L-lower,0,12,,Recovery,20C Group 2
+SB_2023_ind22,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,15.4,15:00,03-Jul-23,R-upper,1,13,,Recovery,20C Group 2
+SB_2023_ind22,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.3,14:05,04-Jul-23,L-lower,0,13,,Recovery,20C Group 2
+SB_2023_ind22,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.7,13:01,05-Jul-23,R-upper,1,14,,Recovery,20C Group 2
+SB_2023_ind22,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.9,13:24,06-Jul-23,L-lower,0,14,,Recovery,20C Group 2
+SB_2023_ind22,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.2,14:17,07-Jul-23,R-upper,0,14,,Recovery,20C Group 2
+SB_2023_ind22,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,L-lower,0,14,,Recovery,20C Group 2
+SB_2023_ind23,15,30,Recovery,NA,NA,NA,NA,17,NA,NA,NA,NA,NA,,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind23,15,30,Recovery,NA,NA,NA,NA,18,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind23,15,30,Recovery,NA,NA,NA,NA,19,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind23,15,30,Recovery,NA,NA,NA,NA,20,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind23,15,30,Recovery,NA,NA,NA,NA,21,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind23,15,30,Recovery,NA,NA,NA,NA,22,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind23,15,30,Recovery,NA,NA,NA,NA,23,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind23,15,30,Recovery,NA,NA,NA,NA,24,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind24,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,20.9,10:20,01-Jul-23,R-upper,0,11,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind24,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.6,13:15,02-Jul-23,L-lower,1,12,,Recovery,20C Group 2
+SB_2023_ind24,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,15.4,15:00,03-Jul-23,R-upper,1,13,,Recovery,20C Group 2
+SB_2023_ind24,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.3,14:05,04-Jul-23,L-lower,1,14,,Recovery,20C Group 2
+SB_2023_ind24,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.7,13:01,05-Jul-23,R-upper,0,14,,Recovery,20C Group 2
+SB_2023_ind24,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.9,13:24,06-Jul-23,L-lower,0,14,,Recovery,20C Group 2
+SB_2023_ind24,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.2,14:17,07-Jul-23,R-upper,0,14,,Recovery,20C Group 2
+SB_2023_ind24,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,L-lower,1,15,,Recovery,20C Group 2
+SB_2023_ind25,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,21,10:20,01-Jul-23,L-lower,0,8,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind25,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,14.5,13:15,02-Jul-23,R-upper,1,9,,Recovery,20C Group 1
+SB_2023_ind25,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14.4,15:00,03-Jul-23,L-lower,0,9,,Recovery,20C Group 1
+SB_2023_ind25,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,15.2,14:05,04-Jul-23,R-upper,0,9,,Recovery,20C Group 1
+SB_2023_ind25,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,14,13:01,05-Jul-23,L-Lower,1,10,,Recovery,20C Group 1
+SB_2023_ind25,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,R-upper,0,10,,Recovery,20C Group 1
+SB_2023_ind25,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.1,14:17,07-Jul-23,L-lower,0,10,,Recovery,20C Group 1
+SB_2023_ind25,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,R-upper,1,11,,Recovery,20C Group 1
+SB_2023_ind26,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,20.9,10:20,01-Jul-23,R-upper,1,5,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind26,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.6,13:15,02-Jul-23,L-lower,1,6,,Recovery,20C Group 2
+SB_2023_ind26,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,15.4,15:00,03-Jul-23,R-upper,0,6,,Recovery,20C Group 2
+SB_2023_ind26,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.3,14:05,04-Jul-23,L-lower,0,6,,Recovery,20C Group 2
+SB_2023_ind26,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.7,13:01,05-Jul-23,R-upper,0,6,,Recovery,20C Group 2
+SB_2023_ind26,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.9,13:24,06-Jul-23,L-lower,0,6,,Recovery,20C Group 2
+SB_2023_ind26,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.2,14:17,07-Jul-23,R-upper,0,6,,Recovery,20C Group 2
+SB_2023_ind26,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,L-lower,0,6,,Recovery,20C Group 2
+SB_2023_ind27,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,14.4,10:20,01-Jul-23,R-lower,1,3,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind27,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.2,13:15,02-Jul-23,L-upper,1,4,,Recovery,15C Group 2
+SB_2023_ind27,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,13.7,15:00,03-Jul-23,R-lower,1,5,,Recovery,15C Group 2
+SB_2023_ind27,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.1,14:05,04-Jul-23,L-upper,1,6,,Recovery,15C Group 2
+SB_2023_ind27,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,R-lower,1,7,,Recovery,15C Group 2
+SB_2023_ind27,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,L-upper,1,8,,Recovery,15C Group 2
+SB_2023_ind27,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.6,14:17,07-Jul-23,R-lower,1,9,,Recovery,15C Group 2
+SB_2023_ind27,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,13,14:27,08-Jul-23,L-upper,0,9,,Recovery,15C Group 2
+SB_2023_ind28,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,21,10:20,01-Jul-23,L-lower,1,9,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind28,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,14.5,13:15,02-Jul-23,R-upper,0,9,,Recovery,20C Group 1
+SB_2023_ind28,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14.4,15:00,03-Jul-23,L-lower,1,10,,Recovery,20C Group 1
+SB_2023_ind28,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,15.2,14:05,04-Jul-23,R-upper,1,11,,Recovery,20C Group 1
+SB_2023_ind28,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,14,13:01,05-Jul-23,L-Lower,0,11,,Recovery,20C Group 1
+SB_2023_ind28,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,R-upper,1,12,,Recovery,20C Group 1
+SB_2023_ind28,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.1,14:17,07-Jul-23,L-lower,0,12,,Recovery,20C Group 1
+SB_2023_ind28,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,R-upper,1,13,,Recovery,20C Group 1
+SB_2023_ind29,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,20.9,10:20,01-Jul-23,R-upper,0,14,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind29,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.6,13:15,02-Jul-23,L-lower,1,15,,Recovery,20C Group 2
+SB_2023_ind29,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,15.4,15:00,03-Jul-23,R-upper,1,16,,Recovery,20C Group 2
+SB_2023_ind29,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.3,14:05,04-Jul-23,L-lower,1,17,,Recovery,20C Group 2
+SB_2023_ind29,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.7,13:01,05-Jul-23,R-upper,2,19,,Recovery,20C Group 2
+SB_2023_ind29,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.9,13:24,06-Jul-23,L-lower,2,21,,Recovery,20C Group 2
+SB_2023_ind29,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.2,14:17,07-Jul-23,R-upper,1,22,,Recovery,20C Group 2
+SB_2023_ind29,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,L-lower,0,22,,Recovery,20C Group 2
+SB_2023_ind3,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,15.3,10:20,01-Jul-23,L-upper,1,4,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind3,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,12.8,13:15,02-Jul-23,R-lower,0,4,,Recovery,15C Group 1
+SB_2023_ind3,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14,15:00,03-Jul-23,L-upper,1,5,,Recovery,15C Group 1
+SB_2023_ind3,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,13.5,14:05,04-Jul-23,R-lower,0,5,,Recovery,15C Group 1
+SB_2023_ind3,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,L-upper,0,5,,Recovery,15C Group 1
+SB_2023_ind3,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.6,13:24,06-Jul-23,R-lower,1,6,,Recovery,15C Group 1
+SB_2023_ind3,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,13.1,14:17,07-Jul-23,L-upper,2,8,,Recovery,15C Group 1
+SB_2023_ind3,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.6,14:27,08-Jul-23,R-lower,0,8,,Recovery,15C Group 1
+SB_2023_ind30,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,21,10:20,01-Jul-23,L-lower,1,11,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind30,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,14.5,13:15,02-Jul-23,R-upper,0,11,,Recovery,20C Group 1
+SB_2023_ind30,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14.4,15:00,03-Jul-23,L-lower,1,12,,Recovery,20C Group 1
+SB_2023_ind30,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,15.2,14:05,04-Jul-23,R-upper,1,13,,Recovery,20C Group 1
+SB_2023_ind30,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,14,13:01,05-Jul-23,L-Lower,1,14,,Recovery,20C Group 1
+SB_2023_ind30,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,R-upper,1,15,,Recovery,20C Group 1
+SB_2023_ind30,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.1,14:17,07-Jul-23,L-lower,0,15,,Recovery,20C Group 1
+SB_2023_ind30,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,R-upper,0,15,,Recovery,20C Group 1
+SB_2023_ind31,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,15.3,10:20,01-Jul-23,L-upper,1,7,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind31,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,12.8,13:15,02-Jul-23,R-lower,0,7,,Recovery,15C Group 1
+SB_2023_ind31,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14,15:00,03-Jul-23,L-upper,1,8,,Recovery,15C Group 1
+SB_2023_ind31,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,13.5,14:05,04-Jul-23,R-lower,0,8,,Recovery,15C Group 1
+SB_2023_ind31,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,L-upper,2,10,,Recovery,15C Group 1
+SB_2023_ind31,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.6,13:24,06-Jul-23,R-lower,0,10,,Recovery,15C Group 1
+SB_2023_ind31,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,13.1,14:17,07-Jul-23,L-upper,0,10,,Recovery,15C Group 1
+SB_2023_ind31,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.6,14:27,08-Jul-23,R-lower,0,10,,Recovery,15C Group 1
+SB_2023_ind32,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,20.9,10:20,01-Jul-23,R-upper,2,13,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind32,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.6,13:15,02-Jul-23,L-lower,0,13,,Recovery,20C Group 2
+SB_2023_ind32,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,15.4,15:00,03-Jul-23,R-upper,0,13,,Recovery,20C Group 2
+SB_2023_ind32,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.3,14:05,04-Jul-23,L-lower,1,14,,Recovery,20C Group 2
+SB_2023_ind32,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.7,13:01,05-Jul-23,R-upper,2,16,,Recovery,20C Group 2
+SB_2023_ind32,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.9,13:24,06-Jul-23,L-lower,0,16,,Recovery,20C Group 2
+SB_2023_ind32,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.2,14:17,07-Jul-23,R-upper,1,17,,Recovery,20C Group 2
+SB_2023_ind32,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,L-lower,1,18,,Recovery,20C Group 2
+SB_2023_ind33,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,15.3,10:20,01-Jul-23,L-upper,0,4,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind33,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,12.8,13:15,02-Jul-23,R-lower,2,6,,Recovery,15C Group 1
+SB_2023_ind33,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14,15:00,03-Jul-23,L-upper,1,7,,Recovery,15C Group 1
+SB_2023_ind33,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,13.5,14:05,04-Jul-23,R-lower,0,7,,Recovery,15C Group 1
+SB_2023_ind33,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,L-upper,1,8,,Recovery,15C Group 1
+SB_2023_ind33,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.6,13:24,06-Jul-23,R-lower,0,8,,Recovery,15C Group 1
+SB_2023_ind33,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,13.1,14:17,07-Jul-23,L-upper,1,9,,Recovery,15C Group 1
+SB_2023_ind33,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.6,14:27,08-Jul-23,R-lower,1,10,,Recovery,15C Group 1
+SB_2023_ind34,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,14.4,10:20,01-Jul-23,R-lower,0,8,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind34,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.2,13:15,02-Jul-23,L-upper,2,10,,Recovery,15C Group 2
+SB_2023_ind34,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,13.7,15:00,03-Jul-23,R-lower,1,11,,Recovery,15C Group 2
+SB_2023_ind34,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.1,14:05,04-Jul-23,L-upper,0,11,,Recovery,15C Group 2
+SB_2023_ind34,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,R-lower,1,12,,Recovery,15C Group 2
+SB_2023_ind34,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,L-upper,1,13,,Recovery,15C Group 2
+SB_2023_ind34,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.6,14:17,07-Jul-23,R-lower,0,13,,Recovery,15C Group 2
+SB_2023_ind34,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,13,14:27,08-Jul-23,L-upper,1,14,,Recovery,15C Group 2
+SB_2023_ind35,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,21,10:20,01-Jul-23,L-lower,1,6,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind35,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,14.5,13:15,02-Jul-23,R-upper,1,7,,Recovery,20C Group 1
+SB_2023_ind35,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14.4,15:00,03-Jul-23,L-lower,1,8,,Recovery,20C Group 1
+SB_2023_ind35,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,15.2,14:05,04-Jul-23,R-upper,1,9,,Recovery,20C Group 1
+SB_2023_ind35,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,14,13:01,05-Jul-23,L-Lower,0,9,,Recovery,20C Group 1
+SB_2023_ind35,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,R-upper,0,9,,Recovery,20C Group 1
+SB_2023_ind35,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.1,14:17,07-Jul-23,L-lower,0,9,,Recovery,20C Group 1
+SB_2023_ind35,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,R-upper,1,10,,Recovery,20C Group 1
+SB_2023_ind36,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,14.4,10:20,01-Jul-23,R-lower,0,1,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind36,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.2,13:15,02-Jul-23,L-upper,0,1,,Recovery,15C Group 2
+SB_2023_ind36,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,13.7,15:00,03-Jul-23,R-lower,1,2,,Recovery,15C Group 2
+SB_2023_ind36,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.1,14:05,04-Jul-23,L-upper,1,3,,Recovery,15C Group 2
+SB_2023_ind36,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,R-lower,0,3,,Recovery,15C Group 2
+SB_2023_ind36,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,L-upper,0,3,,Recovery,15C Group 2
+SB_2023_ind36,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.6,14:17,07-Jul-23,R-lower,1,4,,Recovery,15C Group 2
+SB_2023_ind36,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,13,14:27,08-Jul-23,L-upper,1,5,,Recovery,15C Group 2
+SB_2023_ind37,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,15.3,10:20,01-Jul-23,L-upper,2,10,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind37,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,12.8,13:15,02-Jul-23,R-lower,2,12,,Recovery,15C Group 1
+SB_2023_ind37,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14,15:00,03-Jul-23,L-upper,0,12,,Recovery,15C Group 1
+SB_2023_ind37,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,13.5,14:05,04-Jul-23,R-lower,0,12,,Recovery,15C Group 1
+SB_2023_ind37,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,L-upper,1,13,,Recovery,15C Group 1
+SB_2023_ind37,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.6,13:24,06-Jul-23,R-lower,0,13,,Recovery,15C Group 1
+SB_2023_ind37,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,13.1,14:17,07-Jul-23,L-upper,1,14,,Recovery,15C Group 1
+SB_2023_ind37,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.6,14:27,08-Jul-23,R-lower,0,14,,Recovery,15C Group 1
+SB_2023_ind38,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,20.9,10:20,01-Jul-23,R-upper,1,7,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind38,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.6,13:15,02-Jul-23,L-lower,0,7,,Recovery,20C Group 2
+SB_2023_ind38,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,15.4,15:00,03-Jul-23,R-upper,0,7,,Recovery,20C Group 2
+SB_2023_ind38,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.3,14:05,04-Jul-23,L-lower,1,8,,Recovery,20C Group 2
+SB_2023_ind38,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.7,13:01,05-Jul-23,R-upper,1,9,,Recovery,20C Group 2
+SB_2023_ind38,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.9,13:24,06-Jul-23,L-lower,0,9,,Recovery,20C Group 2
+SB_2023_ind38,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.2,14:17,07-Jul-23,R-upper,0,9,,Recovery,20C Group 2
+SB_2023_ind38,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,L-lower,1,10,,Recovery,20C Group 2
+SB_2023_ind39,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,15.3,10:20,01-Jul-23,L-upper,1,4,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind39,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,12.8,13:15,02-Jul-23,R-lower,0,4,,Recovery,15C Group 1
+SB_2023_ind39,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14,15:00,03-Jul-23,L-upper,1,5,,Recovery,15C Group 1
+SB_2023_ind39,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,13.5,14:05,04-Jul-23,R-lower,0,5,,Recovery,15C Group 1
+SB_2023_ind39,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,L-upper,2,7,,Recovery,15C Group 1
+SB_2023_ind39,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.6,13:24,06-Jul-23,R-lower,0,7,,Recovery,15C Group 1
+SB_2023_ind39,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,13.1,14:17,07-Jul-23,L-upper,0,7,,Recovery,15C Group 1
+SB_2023_ind39,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.6,14:27,08-Jul-23,R-lower,0,7,,Recovery,15C Group 1
+SB_2023_ind4,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,20.9,10:20,01-Jul-23,R-upper,2,10,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind4,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.6,13:15,02-Jul-23,L-lower,1,11,,Recovery,20C Group 2
+SB_2023_ind4,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,15.4,15:00,03-Jul-23,R-upper,0,11,,Recovery,20C Group 2
+SB_2023_ind4,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.3,14:05,04-Jul-23,L-lower,0,11,,Recovery,20C Group 2
+SB_2023_ind4,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.7,13:01,05-Jul-23,R-upper,2,13,,Recovery,20C Group 2
+SB_2023_ind4,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.9,13:24,06-Jul-23,L-lower,0,13,,Recovery,20C Group 2
+SB_2023_ind4,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.2,14:17,07-Jul-23,R-upper,0,13,,Recovery,20C Group 2
+SB_2023_ind4,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,L-lower,0,13,,Recovery,20C Group 2
+SB_2023_ind40,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,21,10:20,01-Jul-23,L-lower,1,7,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind40,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,14.5,13:15,02-Jul-23,R-upper,0,7,,Recovery,20C Group 1
+SB_2023_ind40,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14.4,15:00,03-Jul-23,L-lower,1,8,,Recovery,20C Group 1
+SB_2023_ind40,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,15.2,14:05,04-Jul-23,R-upper,0,8,,Recovery,20C Group 1
+SB_2023_ind40,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,14,13:01,05-Jul-23,L-Lower,0,8,,Recovery,20C Group 1
+SB_2023_ind40,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,R-upper,0,8,,Recovery,20C Group 1
+SB_2023_ind40,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.1,14:17,07-Jul-23,L-lower,0,8,,Recovery,20C Group 1
+SB_2023_ind40,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,R-upper,1,9,,Recovery,20C Group 1
+SB_2023_ind41,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,15.3,10:20,01-Jul-23,L-upper,1,6,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind41,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,12.8,13:15,02-Jul-23,R-lower,0,6,,Recovery,15C Group 1
+SB_2023_ind41,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14,15:00,03-Jul-23,L-upper,1,7,,Recovery,15C Group 1
+SB_2023_ind41,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,13.5,14:05,04-Jul-23,R-lower,1,8,,Recovery,15C Group 1
+SB_2023_ind41,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,L-upper,0,8,,Recovery,15C Group 1
+SB_2023_ind41,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.6,13:24,06-Jul-23,R-lower,1,9,,Recovery,15C Group 1
+SB_2023_ind41,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,13.1,14:17,07-Jul-23,L-upper,0,9,,Recovery,15C Group 1
+SB_2023_ind41,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.6,14:27,08-Jul-23,R-lower,2,11,,Recovery,15C Group 1
+SB_2023_ind42,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,20.9,10:20,01-Jul-23,R-upper,0,6,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind42,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.6,13:15,02-Jul-23,L-lower,1,7,,Recovery,20C Group 2
+SB_2023_ind42,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,15.4,15:00,03-Jul-23,R-upper,0,7,,Recovery,20C Group 2
+SB_2023_ind42,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.3,14:05,04-Jul-23,L-lower,0,7,,Recovery,20C Group 2
+SB_2023_ind42,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.7,13:01,05-Jul-23,R-upper,0,7,,Recovery,20C Group 2
+SB_2023_ind42,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.9,13:24,06-Jul-23,L-lower,3,10,,Recovery,20C Group 2
+SB_2023_ind42,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.2,14:17,07-Jul-23,R-upper,2,12,,Recovery,20C Group 2
+SB_2023_ind42,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,L-lower,1,13,,Recovery,20C Group 2
+SB_2023_ind43,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,21,10:20,01-Jul-23,L-lower,1,12,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind43,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,14.5,13:15,02-Jul-23,R-upper,1,13,,Recovery,20C Group 1
+SB_2023_ind43,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14.4,15:00,03-Jul-23,L-lower,1,14,,Recovery,20C Group 1
+SB_2023_ind43,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,15.2,14:05,04-Jul-23,R-upper,0,14,,Recovery,20C Group 1
+SB_2023_ind43,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,14,13:01,05-Jul-23,L-Lower,1,15,,Recovery,20C Group 1
+SB_2023_ind43,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,R-upper,0,15,,Recovery,20C Group 1
+SB_2023_ind43,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.1,14:17,07-Jul-23,L-lower,2,17,,Recovery,20C Group 1
+SB_2023_ind43,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,R-upper,1,18,,Recovery,20C Group 1
+SB_2023_ind44,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,21,10:20,01-Jul-23,L-lower,0,9,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind44,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,14.5,13:15,02-Jul-23,R-upper,1,10,,Recovery,20C Group 1
+SB_2023_ind44,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14.4,15:00,03-Jul-23,L-lower,1,11,,Recovery,20C Group 1
+SB_2023_ind44,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,15.2,14:05,04-Jul-23,R-upper,1,12,,Recovery,20C Group 1
+SB_2023_ind44,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,14,13:01,05-Jul-23,L-Lower,0,12,,Recovery,20C Group 1
+SB_2023_ind44,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,R-upper,1,13,,Recovery,20C Group 1
+SB_2023_ind44,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.1,14:17,07-Jul-23,L-lower,0,13,,Recovery,20C Group 1
+SB_2023_ind44,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,R-upper,0,13,,Recovery,20C Group 1
+SB_2023_ind45,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,14.4,10:20,01-Jul-23,R-lower,0,1,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind45,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.2,13:15,02-Jul-23,L-upper,0,1,,Recovery,15C Group 2
+SB_2023_ind45,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,13.7,15:00,03-Jul-23,R-lower,0,1,,Recovery,15C Group 2
+SB_2023_ind45,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.1,14:05,04-Jul-23,L-upper,0,1,,Recovery,15C Group 2
+SB_2023_ind45,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,R-lower,0,1,,Recovery,15C Group 2
+SB_2023_ind45,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,L-upper,0,1,,Recovery,15C Group 2
+SB_2023_ind45,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.6,14:17,07-Jul-23,R-lower,0,1,,Recovery,15C Group 2
+SB_2023_ind45,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,13,14:27,08-Jul-23,L-upper,0,1,,Recovery,15C Group 2
+SB_2023_ind46,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,15.3,10:20,01-Jul-23,L-upper,0,0,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind46,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,12.8,13:15,02-Jul-23,R-lower,0,0,,Recovery,15C Group 1
+SB_2023_ind46,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14,15:00,03-Jul-23,L-upper,1,1,,Recovery,15C Group 1
+SB_2023_ind46,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,13.5,14:05,04-Jul-23,R-lower,1,2,,Recovery,15C Group 1
+SB_2023_ind46,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,L-upper,1,3,,Recovery,15C Group 1
+SB_2023_ind46,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.6,13:24,06-Jul-23,R-lower,1,4,,Recovery,15C Group 1
+SB_2023_ind46,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,13.1,14:17,07-Jul-23,L-upper,1,5,,Recovery,15C Group 1
+SB_2023_ind46,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.6,14:27,08-Jul-23,R-lower,0,5,,Recovery,15C Group 1
+SB_2023_ind47,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,20.9,10:20,01-Jul-23,R-upper,1,11,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind47,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.6,13:15,02-Jul-23,L-lower,1,12,,Recovery,20C Group 2
+SB_2023_ind47,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,15.4,15:00,03-Jul-23,R-upper,0,12,,Recovery,20C Group 2
+SB_2023_ind47,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.3,14:05,04-Jul-23,L-lower,1,13,,Recovery,20C Group 2
+SB_2023_ind47,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.7,13:01,05-Jul-23,R-upper,1,14,,Recovery,20C Group 2
+SB_2023_ind47,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.9,13:24,06-Jul-23,L-lower,0,14,,Recovery,20C Group 2
+SB_2023_ind47,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.2,14:17,07-Jul-23,R-upper,1,15,,Recovery,20C Group 2
+SB_2023_ind47,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,L-lower,1,16,,Recovery,20C Group 2
+SB_2023_ind48,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,21,10:20,01-Jul-23,L-lower,1,12,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind48,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,14.5,13:15,02-Jul-23,R-upper,2,14,,Recovery,20C Group 1
+SB_2023_ind48,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14.4,15:00,03-Jul-23,L-lower,1,15,,Recovery,20C Group 1
+SB_2023_ind48,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,15.2,14:05,04-Jul-23,R-upper,1,16,,Recovery,20C Group 1
+SB_2023_ind48,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,14,13:01,05-Jul-23,L-Lower,0,16,,Recovery,20C Group 1
+SB_2023_ind48,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,R-upper,0,16,,Recovery,20C Group 1
+SB_2023_ind48,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.1,14:17,07-Jul-23,L-lower,0,16,,Recovery,20C Group 1
+SB_2023_ind48,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,R-upper,1,17,,Recovery,20C Group 1
+SB_2023_ind49,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,21,10:20,01-Jul-23,L-lower,1,10,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind49,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,14.5,13:15,02-Jul-23,R-upper,1,11,,Recovery,20C Group 1
+SB_2023_ind49,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14.4,15:00,03-Jul-23,L-lower,1,12,,Recovery,20C Group 1
+SB_2023_ind49,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,15.2,14:05,04-Jul-23,R-upper,1,13,,Recovery,20C Group 1
+SB_2023_ind49,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,14,13:01,05-Jul-23,L-Lower,0,13,,Recovery,20C Group 1
+SB_2023_ind49,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,R-upper,0,13,,Recovery,20C Group 1
+SB_2023_ind49,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.1,14:17,07-Jul-23,L-lower,0,13,,Recovery,20C Group 1
+SB_2023_ind49,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,R-upper,0,13,,Recovery,20C Group 1
+SB_2023_ind5,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,14.4,10:20,01-Jul-23,R-lower,0,10,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind5,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.2,13:15,02-Jul-23,L-upper,1,11,,Recovery,15C Group 2
+SB_2023_ind5,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,13.7,15:00,03-Jul-23,R-lower,1,12,,Recovery,15C Group 2
+SB_2023_ind5,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.1,14:05,04-Jul-23,L-upper,0,12,,Recovery,15C Group 2
+SB_2023_ind5,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,R-lower,1,13,,Recovery,15C Group 2
+SB_2023_ind5,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,L-upper,0,13,,Recovery,15C Group 2
+SB_2023_ind5,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.6,14:17,07-Jul-23,R-lower,0,13,,Recovery,15C Group 2
+SB_2023_ind5,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,13,14:27,08-Jul-23,L-upper,1,14,,Recovery,15C Group 2
+SB_2023_ind50,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,20.9,10:20,01-Jul-23,R-upper,0,7,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind50,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.6,13:15,02-Jul-23,L-lower,2,9,,Recovery,20C Group 2
+SB_2023_ind50,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,15.4,15:00,03-Jul-23,R-upper,0,9,,Recovery,20C Group 2
+SB_2023_ind50,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.3,14:05,04-Jul-23,L-lower,0,9,,Recovery,20C Group 2
+SB_2023_ind50,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.7,13:01,05-Jul-23,R-upper,1,10,,Recovery,20C Group 2
+SB_2023_ind50,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.9,13:24,06-Jul-23,L-lower,0,10,,Recovery,20C Group 2
+SB_2023_ind50,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.2,14:17,07-Jul-23,R-upper,0,10,,Recovery,20C Group 2
+SB_2023_ind50,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,L-lower,1,11,,Recovery,20C Group 2
+SB_2023_ind51,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,14.4,10:20,01-Jul-23,R-lower,1,9,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind51,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.2,13:15,02-Jul-23,L-upper,1,10,,Recovery,15C Group 2
+SB_2023_ind51,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,13.7,15:00,03-Jul-23,R-lower,1,11,,Recovery,15C Group 2
+SB_2023_ind51,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.1,14:05,04-Jul-23,L-upper,0,11,,Recovery,15C Group 2
+SB_2023_ind51,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,R-lower,1,12,,Recovery,15C Group 2
+SB_2023_ind51,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,L-upper,0,12,,Recovery,15C Group 2
+SB_2023_ind51,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.6,14:17,07-Jul-23,R-lower,1,13,,Recovery,15C Group 2
+SB_2023_ind51,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,13,14:27,08-Jul-23,L-upper,0,13,,Recovery,15C Group 2
+SB_2023_ind52,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,15.3,10:20,01-Jul-23,L-upper,1,9,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind52,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,12.8,13:15,02-Jul-23,R-lower,1,10,,Recovery,15C Group 1
+SB_2023_ind52,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14,15:00,03-Jul-23,L-upper,0,10,,Recovery,15C Group 1
+SB_2023_ind52,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,13.5,14:05,04-Jul-23,R-lower,0,10,,Recovery,15C Group 1
+SB_2023_ind52,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,L-upper,1,11,,Recovery,15C Group 1
+SB_2023_ind52,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.6,13:24,06-Jul-23,R-lower,1,12,,Recovery,15C Group 1
+SB_2023_ind52,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,13.1,14:17,07-Jul-23,L-upper,1,13,,Recovery,15C Group 1
+SB_2023_ind52,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.6,14:27,08-Jul-23,R-lower,0,13,,Recovery,15C Group 1
+SB_2023_ind53,20,30,Recovery,NA,NA,NA,NA,17,NA,NA,NA,NA,NA,,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind53,20,30,Recovery,NA,NA,NA,NA,18,NA,NA,NA,NA,NA,,,Recovery,20C Group 2
+SB_2023_ind53,20,30,Recovery,NA,NA,NA,NA,19,NA,NA,NA,NA,NA,,,Recovery,20C Group 2
+SB_2023_ind53,20,30,Recovery,NA,NA,NA,NA,20,NA,NA,NA,NA,NA,,,Recovery,20C Group 2
+SB_2023_ind53,20,30,Recovery,NA,NA,NA,NA,21,NA,NA,NA,NA,NA,,,Recovery,20C Group 2
+SB_2023_ind53,20,30,Recovery,NA,NA,NA,NA,22,NA,NA,NA,NA,NA,,,Recovery,20C Group 2
+SB_2023_ind53,20,30,Recovery,NA,NA,NA,NA,23,NA,NA,NA,NA,NA,,,Recovery,20C Group 2
+SB_2023_ind53,20,30,Recovery,NA,NA,NA,NA,24,NA,NA,NA,NA,NA,,,Recovery,20C Group 2
+SB_2023_ind54,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,15.3,10:20,01-Jul-23,L-upper,1,8,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind54,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,12.8,13:15,02-Jul-23,R-lower,1,9,,Recovery,15C Group 1
+SB_2023_ind54,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14,15:00,03-Jul-23,L-upper,0,9,,Recovery,15C Group 1
+SB_2023_ind54,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,13.5,14:05,04-Jul-23,R-lower,0,9,,Recovery,15C Group 1
+SB_2023_ind54,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,L-upper,0,9,,Recovery,15C Group 1
+SB_2023_ind54,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.6,13:24,06-Jul-23,R-lower,0,9,,Recovery,15C Group 1
+SB_2023_ind54,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,13.1,14:17,07-Jul-23,L-upper,0,9,,Recovery,15C Group 1
+SB_2023_ind54,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.6,14:27,08-Jul-23,R-lower,2,11,,Recovery,15C Group 1
+SB_2023_ind55,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,21,10:20,01-Jul-23,L-lower,1,14,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind55,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,14.5,13:15,02-Jul-23,R-upper,0,14,,Recovery,20C Group 1
+SB_2023_ind55,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14.4,15:00,03-Jul-23,L-lower,0,14,,Recovery,20C Group 1
+SB_2023_ind55,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,15.2,14:05,04-Jul-23,R-upper,1,15,,Recovery,20C Group 1
+SB_2023_ind55,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,14,13:01,05-Jul-23,L-Lower,0,15,,Recovery,20C Group 1
+SB_2023_ind55,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,R-upper,0,15,,Recovery,20C Group 1
+SB_2023_ind55,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.1,14:17,07-Jul-23,L-lower,1,16,,Recovery,20C Group 1
+SB_2023_ind55,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,R-upper,0,16,,Recovery,20C Group 1
+SB_2023_ind56,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,15.3,10:20,01-Jul-23,L-upper,1,7,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind56,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,12.8,13:15,02-Jul-23,R-lower,1,8,,Recovery,15C Group 1
+SB_2023_ind56,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14,15:00,03-Jul-23,L-upper,1,9,,Recovery,15C Group 1
+SB_2023_ind56,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,13.5,14:05,04-Jul-23,R-lower,0,9,,Recovery,15C Group 1
+SB_2023_ind56,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,L-upper,1,10,,Recovery,15C Group 1
+SB_2023_ind56,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.6,13:24,06-Jul-23,R-lower,0,10,,Recovery,15C Group 1
+SB_2023_ind56,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,13.1,14:17,07-Jul-23,L-upper,1,11,,Recovery,15C Group 1
+SB_2023_ind56,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.6,14:27,08-Jul-23,R-lower,0,11,,Recovery,15C Group 1
+SB_2023_ind57,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,14.4,10:20,01-Jul-23,R-lower,0,7,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind57,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.2,13:15,02-Jul-23,L-upper,1,8,,Recovery,15C Group 2
+SB_2023_ind57,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,13.7,15:00,03-Jul-23,R-lower,0,8,,Recovery,15C Group 2
+SB_2023_ind57,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.1,14:05,04-Jul-23,L-upper,0,8,,Recovery,15C Group 2
+SB_2023_ind57,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,R-lower,0,8,,Recovery,15C Group 2
+SB_2023_ind57,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,L-upper,1,9,,Recovery,15C Group 2
+SB_2023_ind57,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.6,14:17,07-Jul-23,R-lower,0,9,,Recovery,15C Group 2
+SB_2023_ind57,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,13,14:27,08-Jul-23,L-upper,1,10,,Recovery,15C Group 2
+SB_2023_ind58,20,30,Recovery,NA,NA,NA,NA,17,NA,NA,NA,NA,NA,,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind58,20,30,Recovery,NA,NA,NA,NA,18,NA,NA,NA,NA,NA,,,Recovery,20C Group 1
+SB_2023_ind58,20,30,Recovery,NA,NA,NA,NA,19,NA,NA,NA,NA,NA,,,Recovery,20C Group 1
+SB_2023_ind58,20,30,Recovery,NA,NA,NA,NA,20,NA,NA,NA,NA,NA,,,Recovery,20C Group 1
+SB_2023_ind58,20,30,Recovery,NA,NA,NA,NA,21,NA,NA,NA,NA,NA,,,Recovery,20C Group 1
+SB_2023_ind58,20,30,Recovery,NA,NA,NA,NA,22,NA,NA,NA,NA,NA,,,Recovery,20C Group 1
+SB_2023_ind58,20,30,Recovery,NA,NA,NA,NA,23,NA,NA,NA,NA,NA,,,Recovery,20C Group 1
+SB_2023_ind58,20,30,Recovery,NA,NA,NA,NA,24,NA,NA,NA,NA,NA,,,Recovery,20C Group 1
+SB_2023_ind59,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,14.4,10:20,01-Jul-23,R-lower,1,6,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind59,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.2,13:15,02-Jul-23,L-upper,1,7,,Recovery,15C Group 2
+SB_2023_ind59,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,13.7,15:00,03-Jul-23,R-lower,0,7,,Recovery,15C Group 2
+SB_2023_ind59,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.1,14:05,04-Jul-23,L-upper,1,8,,Recovery,15C Group 2
+SB_2023_ind59,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,R-lower,1,9,,Recovery,15C Group 2
+SB_2023_ind59,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,L-upper,0,9,,Recovery,15C Group 2
+SB_2023_ind59,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.6,14:17,07-Jul-23,R-lower,0,9,,Recovery,15C Group 2
+SB_2023_ind59,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,13,14:27,08-Jul-23,L-upper,1,10,,Recovery,15C Group 2
+SB_2023_ind6,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,21,10:20,01-Jul-23,L-lower,0,15,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind6,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,14.5,13:15,02-Jul-23,R-upper,1,16,Sea stars were swapped at the time of the water check (20-->20 and 15-->15),Recovery,20C Group 1
+SB_2023_ind6,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14.4,15:00,03-Jul-23,L-lower,1,17,,Recovery,20C Group 1
+SB_2023_ind6,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,15.2,14:05,04-Jul-23,R-upper,0,17,,Recovery,20C Group 1
+SB_2023_ind6,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,14,13:01,05-Jul-23,L-Lower,2,19,,Recovery,20C Group 1
+SB_2023_ind6,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,R-upper,1,20,,Recovery,20C Group 1
+SB_2023_ind6,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.1,14:17,07-Jul-23,L-lower,0,20,,Recovery,20C Group 1
+SB_2023_ind6,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,R-upper,1,21,,Recovery,20C Group 1
+SB_2023_ind60,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,14.4,10:20,01-Jul-23,R-lower,0,4,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind60,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.2,13:15,02-Jul-23,L-upper,0,4,,Recovery,15C Group 2
+SB_2023_ind60,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,13.7,15:00,03-Jul-23,R-lower,1,5,,Recovery,15C Group 2
+SB_2023_ind60,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.1,14:05,04-Jul-23,L-upper,1,6,,Recovery,15C Group 2
+SB_2023_ind60,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,R-lower,0,6,,Recovery,15C Group 2
+SB_2023_ind60,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,L-upper,0,6,,Recovery,15C Group 2
+SB_2023_ind60,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.6,14:17,07-Jul-23,R-lower,0,6,,Recovery,15C Group 2
+SB_2023_ind60,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,13,14:27,08-Jul-23,L-upper,1,7,,Recovery,15C Group 2
+SB_2023_ind61,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,20.9,10:20,01-Jul-23,R-upper,1,8,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind61,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.6,13:15,02-Jul-23,L-lower,1,9,,Recovery,20C Group 2
+SB_2023_ind61,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,15.4,15:00,03-Jul-23,R-upper,0,9,,Recovery,20C Group 2
+SB_2023_ind61,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.3,14:05,04-Jul-23,L-lower,1,10,,Recovery,20C Group 2
+SB_2023_ind61,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.7,13:01,05-Jul-23,R-upper,0,10,,Recovery,20C Group 2
+SB_2023_ind61,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.9,13:24,06-Jul-23,L-lower,1,11,,Recovery,20C Group 2
+SB_2023_ind61,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.2,14:17,07-Jul-23,R-upper,0,11,,Recovery,20C Group 2
+SB_2023_ind61,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,L-lower,0,11,,Recovery,20C Group 2
+SB_2023_ind62,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,21,10:20,01-Jul-23,L-lower,2,7,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind62,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,14.5,13:15,02-Jul-23,R-upper,0,7,,Recovery,20C Group 1
+SB_2023_ind62,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14.4,15:00,03-Jul-23,L-lower,2,9,,Recovery,20C Group 1
+SB_2023_ind62,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,15.2,14:05,04-Jul-23,R-upper,0,9,,Recovery,20C Group 1
+SB_2023_ind62,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,14,13:01,05-Jul-23,L-Lower,1,10,,Recovery,20C Group 1
+SB_2023_ind62,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,R-upper,1,11,,Recovery,20C Group 1
+SB_2023_ind62,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.1,14:17,07-Jul-23,L-lower,0,11,,Recovery,20C Group 1
+SB_2023_ind62,20,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,R-upper,1,12,,Recovery,20C Group 1
+SB_2023_ind63,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,15.3,10:20,01-Jul-23,L-upper,2,16,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind63,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,12.8,13:15,02-Jul-23,R-lower,1,17,,Recovery,15C Group 1
+SB_2023_ind63,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14,15:00,03-Jul-23,L-upper,1,18,,Recovery,15C Group 1
+SB_2023_ind63,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,13.5,14:05,04-Jul-23,R-lower,0,18,,Recovery,15C Group 1
+SB_2023_ind63,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,L-upper,1,19,,Recovery,15C Group 1
+SB_2023_ind63,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.6,13:24,06-Jul-23,R-lower,1,20,,Recovery,15C Group 1
+SB_2023_ind63,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,13.1,14:17,07-Jul-23,L-upper,0,20,,Recovery,15C Group 1
+SB_2023_ind63,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.6,14:27,08-Jul-23,R-lower,1,21,,Recovery,15C Group 1
+SB_2023_ind64,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,21,10:20,01-Jul-23,L-lower,0,6,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind64,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,14.5,13:15,02-Jul-23,R-upper,1,7,,Recovery,20C Group 1
+SB_2023_ind64,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14.4,15:00,03-Jul-23,L-lower,1,8,,Recovery,20C Group 1
+SB_2023_ind64,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,15.2,14:05,04-Jul-23,R-upper,1,9,,Recovery,20C Group 1
+SB_2023_ind64,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,14,13:01,05-Jul-23,L-Lower,1,10,,Recovery,20C Group 1
+SB_2023_ind64,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,R-upper,0,10,,Recovery,20C Group 1
+SB_2023_ind64,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.1,14:17,07-Jul-23,L-lower,0,10,,Recovery,20C Group 1
+SB_2023_ind64,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,R-upper,1,11,,Recovery,20C Group 1
+SB_2023_ind65,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,21,10:20,01-Jul-23,L-lower,0,11,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind65,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,14.5,13:15,02-Jul-23,R-upper,0,11,,Recovery,20C Group 1
+SB_2023_ind65,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14.4,15:00,03-Jul-23,L-lower,0,11,,Recovery,20C Group 1
+SB_2023_ind65,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,15.2,14:05,04-Jul-23,R-upper,2,13,,Recovery,20C Group 1
+SB_2023_ind65,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,14,13:01,05-Jul-23,L-Lower,0,13,,Recovery,20C Group 1
+SB_2023_ind65,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,R-upper,0,13,,Recovery,20C Group 1
+SB_2023_ind65,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.1,14:17,07-Jul-23,L-lower,1,14,,Recovery,20C Group 1
+SB_2023_ind65,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,R-upper,0,14,,Recovery,20C Group 1
+SB_2023_ind66,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,15.3,10:20,01-Jul-23,L-upper,0,2,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind66,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,12.8,13:15,02-Jul-23,R-lower,2,4,,Recovery,15C Group 1
+SB_2023_ind66,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14,15:00,03-Jul-23,L-upper,0,4,,Recovery,15C Group 1
+SB_2023_ind66,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,13.5,14:05,04-Jul-23,R-lower,0,4,,Recovery,15C Group 1
+SB_2023_ind66,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,L-upper,0,4,,Recovery,15C Group 1
+SB_2023_ind66,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.6,13:24,06-Jul-23,R-lower,0,4,,Recovery,15C Group 1
+SB_2023_ind66,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,13.1,14:17,07-Jul-23,L-upper,0,4,,Recovery,15C Group 1
+SB_2023_ind66,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.6,14:27,08-Jul-23,R-lower,2,6,,Recovery,15C Group 1
+SB_2023_ind67,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,14.4,10:20,01-Jul-23,R-lower,0,3,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind67,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.2,13:15,02-Jul-23,L-upper,0,3,,Recovery,15C Group 2
+SB_2023_ind67,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,13.7,15:00,03-Jul-23,R-lower,0,3,,Recovery,15C Group 2
+SB_2023_ind67,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.1,14:05,04-Jul-23,L-upper,0,3,,Recovery,15C Group 2
+SB_2023_ind67,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,R-lower,0,3,,Recovery,15C Group 2
+SB_2023_ind67,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,L-upper,0,3,,Recovery,15C Group 2
+SB_2023_ind67,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.6,14:17,07-Jul-23,R-lower,0,3,,Recovery,15C Group 2
+SB_2023_ind67,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,13,14:27,08-Jul-23,L-upper,0,3,,Recovery,15C Group 2
+SB_2023_ind68,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,21,10:20,01-Jul-23,L-lower,1,13,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 1
+SB_2023_ind68,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,14.5,13:15,02-Jul-23,R-upper,0,13,,Recovery,20C Group 1
+SB_2023_ind68,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14.4,15:00,03-Jul-23,L-lower,1,14,,Recovery,20C Group 1
+SB_2023_ind68,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,15.2,14:05,04-Jul-23,R-upper,1,15,,Recovery,20C Group 1
+SB_2023_ind68,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,14,13:01,05-Jul-23,L-Lower,1,16,,Recovery,20C Group 1
+SB_2023_ind68,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,R-upper,0,16,,Recovery,20C Group 1
+SB_2023_ind68,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.1,14:17,07-Jul-23,L-lower,0,16,,Recovery,20C Group 1
+SB_2023_ind68,20,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,R-upper,2,18,,Recovery,20C Group 1
+SB_2023_ind69,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,15.3,10:20,01-Jul-23,L-upper,0,10,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind69,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,12.8,13:15,02-Jul-23,R-lower,2,12,,Recovery,15C Group 1
+SB_2023_ind69,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14,15:00,03-Jul-23,L-upper,1,13,,Recovery,15C Group 1
+SB_2023_ind69,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,13.5,14:05,04-Jul-23,R-lower,1,14,,Recovery,15C Group 1
+SB_2023_ind69,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,L-upper,0,14,,Recovery,15C Group 1
+SB_2023_ind69,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.6,13:24,06-Jul-23,R-lower,1,15,,Recovery,15C Group 1
+SB_2023_ind69,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,13.1,14:17,07-Jul-23,L-upper,1,16,,Recovery,15C Group 1
+SB_2023_ind69,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.6,14:27,08-Jul-23,R-lower,1,17,,Recovery,15C Group 1
+SB_2023_ind7,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,15.3,10:20,01-Jul-23,L-upper,0,10,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind7,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,12.8,13:15,02-Jul-23,R-lower,0,10,,Recovery,15C Group 1
+SB_2023_ind7,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,14,15:00,03-Jul-23,L-upper,1,11,,Recovery,15C Group 1
+SB_2023_ind7,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,13.5,14:05,04-Jul-23,R-lower,1,12,,Recovery,15C Group 1
+SB_2023_ind7,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,L-upper,0,12,,Recovery,15C Group 1
+SB_2023_ind7,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.6,13:24,06-Jul-23,R-lower,0,12,,Recovery,15C Group 1
+SB_2023_ind7,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,13.1,14:17,07-Jul-23,L-upper,1,13,,Recovery,15C Group 1
+SB_2023_ind7,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.6,14:27,08-Jul-23,R-lower,1,14,,Recovery,15C Group 1
+SB_2023_ind70,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,20.9,10:20,01-Jul-23,R-upper,1,11,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,20C Group 2
+SB_2023_ind70,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.6,13:15,02-Jul-23,L-lower,1,12,,Recovery,20C Group 2
+SB_2023_ind70,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,15.4,15:00,03-Jul-23,R-upper,0,12,,Recovery,20C Group 2
+SB_2023_ind70,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.3,14:05,04-Jul-23,L-lower,1,13,,Recovery,20C Group 2
+SB_2023_ind70,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.7,13:01,05-Jul-23,R-upper,0,13,,Recovery,20C Group 2
+SB_2023_ind70,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.9,13:24,06-Jul-23,L-lower,1,14,,Recovery,20C Group 2
+SB_2023_ind70,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.2,14:17,07-Jul-23,R-upper,0,14,,Recovery,20C Group 2
+SB_2023_ind70,20,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,12.2,14:27,08-Jul-23,L-lower,0,14,,Recovery,20C Group 2
+SB_2023_ind71,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,14.4,10:20,01-Jul-23,R-lower,0,2,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind71,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.2,13:15,02-Jul-23,L-upper,1,3,,Recovery,15C Group 2
+SB_2023_ind71,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,13.7,15:00,03-Jul-23,R-lower,2,5,,Recovery,15C Group 2
+SB_2023_ind71,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.1,14:05,04-Jul-23,L-upper,1,6,,Recovery,15C Group 2
+SB_2023_ind71,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,R-lower,1,7,,Recovery,15C Group 2
+SB_2023_ind71,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,L-upper,1,8,,Recovery,15C Group 2
+SB_2023_ind71,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.6,14:17,07-Jul-23,R-lower,0,8,,Recovery,15C Group 2
+SB_2023_ind71,15,25,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,13,14:27,08-Jul-23,L-upper,0,8,,Recovery,15C Group 2
+SB_2023_ind72,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,14.4,10:20,01-Jul-23,R-lower,1,13,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind72,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.2,13:15,02-Jul-23,L-upper,0,13,,Recovery,15C Group 2
+SB_2023_ind72,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,13.7,15:00,03-Jul-23,R-lower,1,14,,Recovery,15C Group 2
+SB_2023_ind72,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.1,14:05,04-Jul-23,L-upper,2,16,,Recovery,15C Group 2
+SB_2023_ind72,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,R-lower,0,16,,Recovery,15C Group 2
+SB_2023_ind72,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,L-upper,0,16,,Recovery,15C Group 2
+SB_2023_ind72,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.6,14:17,07-Jul-23,R-lower,1,17,,Recovery,15C Group 2
+SB_2023_ind72,15,20,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,13,14:27,08-Jul-23,L-upper,1,18,,Recovery,15C Group 2
+SB_2023_ind8,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,17,14.4,10:20,01-Jul-23,R-lower,0,1,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 2
+SB_2023_ind8,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,18,13.2,13:15,02-Jul-23,L-upper,0,1,,Recovery,15C Group 2
+SB_2023_ind8,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,19,13.7,15:00,03-Jul-23,R-lower,1,2,,Recovery,15C Group 2
+SB_2023_ind8,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,20,14.1,14:05,04-Jul-23,L-upper,0,2,,Recovery,15C Group 2
+SB_2023_ind8,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,21,13.1,13:01,05-Jul-23,R-lower,2,4,,Recovery,15C Group 2
+SB_2023_ind8,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,22,13.1,13:24,06-Jul-23,L-upper,1,5,,Recovery,15C Group 2
+SB_2023_ind8,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,23,12.6,14:17,07-Jul-23,R-lower,0,5,,Recovery,15C Group 2
+SB_2023_ind8,15,30,Recovery,01-Jul-23,10:15,08-Jul-23,14:45,24,13,14:27,08-Jul-23,L-upper,0,5,,Recovery,15C Group 2
+SB_2023_ind9,15,30,Recovery,NA,NA,NA,NA,17,NA,NA,NA,NA,NA,,Heat stress ended at 10:15 - mussels were collected during that time and are still counted as part of the heat stress period,Recovery,15C Group 1
+SB_2023_ind9,15,30,Recovery,NA,NA,NA,NA,18,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind9,15,30,Recovery,NA,NA,NA,NA,19,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind9,15,30,Recovery,NA,NA,NA,NA,20,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind9,15,30,Recovery,NA,NA,NA,NA,21,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind9,15,30,Recovery,NA,NA,NA,NA,22,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind9,15,30,Recovery,NA,NA,NA,NA,23,NA,NA,NA,NA,NA,,,Recovery,15C Group 1
+SB_2023_ind9,15,30,Recovery,NA,NA,NA,NA,24,NA,NA,NA,NA,NA,,,Recovery,15C Group 1

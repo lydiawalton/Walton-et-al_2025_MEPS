@@ -1,0 +1,120 @@
+water.treatment,air.treatment,star.ID,ind.number,date,MO2.type,round,channel,salinity-ppm,unconverted.rate,AFDM.MR-mLO2.hr.g,rsqrt.MR.weight,percent.drop.O2,Notes
+15,25,EB_2024_ind1,1,21-May-24,First Aquatic,R1,1,30.886,-0.372827,0.2119286,1,,
+15,30,EB_2024_ind22,22,21-May-24,First Aquatic,R1,2,30.886,-0.5184453,0.350027,0.994,,
+20,25,EB_2024_ind37,37,21-May-24,First Aquatic,R1,3,30.886,-0.3712668,0.2783984,0.943,,Lots of animals movement
+20,30,EB_2024_ind55,55,21-May-24,First Aquatic,R1,4,30.886,-0.4603335,0.2381466,1,,
+15,25,EB_2024_ind4,4,21-May-24,First Aquatic,R1,5,30.886,-0.4388827,0.2794894,1,,
+15,30,EB_2024_ind23,23,21-May-24,First Aquatic,R1,6,30.886,-0.1657138,0.3002578,0.995,,
+20,25,EB_2024_ind39,39,21-May-24,First Aquatic,R1,7,30.886,-0.2193595,0.2236164,0.839,,Lots of animals movement
+20,30,EB_2024_ind56,56,21-May-24,First Aquatic,R1,8,30.886,-0.5825614,0.4405469,0.991,,
+15,25,EB_2024_ind6,6,21-May-24,First Aquatic,R1,9,30.886,-0.2900291,0.2687697,0.999,,
+,,,,,,,,,,,,,
+15,30,EB_2024_ind25,25,21-May-24,First Aquatic,R2,1,30.886,-0.3271073,0.3874955,0.999,,
+20,25,EB_2024_ind40,40,21-May-24,First Aquatic,R2,2,30.886,-0.3515122,0.2196583,0.999,,
+20,30,EB_2024_ind58,58,21-May-24,First Aquatic,R2,3,30.886,-0.2229292,0.2420161,0.996,,
+15,25,EB_2024_ind7,7,21-May-24,First Aquatic,R2,4,30.886,-0.2757602,0.2195928,1,,
+15,30,EB_2024_ind26,26,21-May-24,First Aquatic,R2,5,30.886,-0.4956451,0.2824656,0.954,,Lots of animals movement
+20,25,EB_2024_ind41,41,21-May-24,First Aquatic,R2,6,30.886,-0.5167393,0.2261953,1,,
+20,30,EB_2024_ind59,59,21-May-24,First Aquatic,R2,7,30.886,-0.4918787,0.2943851,1,,
+15,25,EB_2024_ind11,11,21-May-24,First Aquatic,R2,8,30.886,-0.2088781,0.1584482,1,,
+15,30,EB_2024_ind28,28,21-May-24,First Aquatic,R2,9,30.886,-0.3216955,0.3581734,0.998,,
+,,,,,,,,,,,,,
+20,25,EB_2024_ind43,43,21-May-24,First Aquatic,R3,1,30.908,-0.5074269,0.2062912,1,,
+20,30,EB_2024_ind60,60,21-May-24,First Aquatic,R3,2,30.908,-0.5650855,0.3210509,1,,
+15,25,EB_2024_ind12,12,21-May-24,First Aquatic,R3,3,30.908,-0.3062552,0.2329775,1,,
+15,30,EB_2024_ind29,29,21-May-24,First Aquatic,R3,4,30.908,-0.3330673,0.3299758,1,,
+20,25,EB_2024_ind46,46,21-May-24,First Aquatic,R3,5,30.908,-0.4156121,0.4305001,0.688,,Lots of animals movement
+20,30,EB_2024_ind67,67,21-May-24,First Aquatic,R3,6,30.908,-0.2985159,0.3181145,1,,
+15,25,EB_2024_ind14,14,21-May-24,First Aquatic,R3,7,30.908,-0.3498544,0.2784124,1,,
+15,30,EB_2024_ind30,30,21-May-24,First Aquatic,R3,8,30.908,-0.1553399,0.2595356,0.999,,
+20,25,EB_2024_ind47,47,21-May-24,First Aquatic,R3,9,30.908,-0.2380092,0.2547286,1,,
+,,,,,,,,,,,,,
+20,30,EB_2024_ind68,68,21-May-24,First Aquatic,R4,1,30.916,-0.3772401,0.25595,0.999,,
+15,25,EB_2024_ind16,16,21-May-24,First Aquatic,R4,2,30.916,-0.4508975,0.2389808,1,,
+15,30,EB_2024_ind32,32,21-May-24,First Aquatic,R4,3,30.916,-0.5849111,0.3040888,0.836,,Lots of animals movement
+20,25,EB_2024_ind51,51,21-May-24,First Aquatic,R4,4,30.916,-0.5855178,0.2597795,1,,
+20,30,EB_2024_ind70,70,21-May-24,First Aquatic,R4,5,30.916,-0.1563608,0.2047355,1,,
+15,25,EB_2024_ind17,17,21-May-24,First Aquatic,R4,6,30.916,-0.4504869,0.2458721,1,,
+15,30,EB_2024_ind35,35,21-May-24,First Aquatic,R4,7,30.916,-0.3955399,0.3154552,0.998,,
+20,25,EB_2024_ind52,52,21-May-24,First Aquatic,R4,8,30.916,-0.3101265,0.2345948,0.999,,
+20,30,EB_2024_ind71,71,21-May-24,First Aquatic,R4,9,30.916,-0.3091203,0.2108065,0.998,,
+,,,,,,,,,,,,,
+15,25,EB_2024_ind1,1,21-May-24,Aerial,R1,1,0,,,0.991,1.456,~1% drop
+15,30,EB_2024_ind22,22,21-May-24,Aerial,R1,2,0,,,0.992,1.268,~1.5% drop
+20,25,EB_2024_ind37,37,21-May-24,Aerial,R1,3,0,,,0.997,1.419,~1.5% drop
+20,30,EB_2024_ind55,55,21-May-24,Aerial,R1,4,0,,,0.996,1.613,~1.5% drop
+15,25,EB_2024_ind4,4,21-May-24,Aerial,R1,5,0,,,0.987,1.545,~1.5% drop
+15,30,EB_2024_ind23,23,21-May-24,Aerial,R1,6,0,,,0.984,0.638,<1% drop
+20,25,EB_2024_ind39,39,21-May-24,Aerial,R1,7,0,,,0.948,0.57,<0.5% drop
+20,30,EB_2024_ind56,56,21-May-24,Aerial,R1,8,0,,,0.991,2.418,~2% drop
+15,25,EB_2024_ind6,6,21-May-24,Aerial,R1,9,0,,,0.986,0.862,~1% drop
+,,,,,,,,,,,,,
+15,30,EB_2024_ind25,25,21-May-24,Aerial,R2,1,0,,,0.939,0.527,<1% drop; very shaky
+20,25,EB_2024_ind40,40,21-May-24,Aerial,R2,2,0,,,NA,NA,O2 very weird pattern
+20,30,EB_2024_ind58,58,21-May-24,Aerial,R2,3,0,,,0.97,0.547,<0.5% drop
+15,25,EB_2024_ind7,7,21-May-24,Aerial,R2,4,0,,,0.97,0.866,~1% drop; probe 9 recorded this data
+15,30,EB_2024_ind26,26,21-May-24,Aerial,R2,5,0,,,0.984,1.196,~1.5% drop
+20,25,EB_2024_ind41,41,21-May-24,Aerial,R2,6,0,,,0.991,1.594,~1.5% drop
+20,30,EB_2024_ind59,59,21-May-24,Aerial,R2,7,0,,,0.985,1.518,~1.5% drop
+15,25,EB_2024_ind11,11,21-May-24,Aerial,R2,8,0,,,0.971,0.634,~1% drop
+15,30,EB_2024_ind28,28,21-May-24,Aerial,R2,9,0,,,NA,NA,Sea star on probe - O2 reading above 100%; readings affected by CH10 adjustment - try using non adjusted values maybe?
+,,,,,,,,,,,,,
+20,25,EB_2024_ind43,43,21-May-24,Aerial,R3,1,0,,,0.983,1.737,~1% drop
+20,30,EB_2024_ind60,60,21-May-24,Aerial,R3,2,0,,,0.998,2.126,~2% drop
+15,25,EB_2024_ind12,12,21-May-24,Aerial,R3,3,0,,,0.989,0.772,~1% drop
+15,30,EB_2024_ind29,29,21-May-24,Aerial,R3,4,0,,,0.989,1.269,~1% drop
+20,25,EB_2024_ind46,46,21-May-24,Aerial,R3,5,0,,,0.992,1.668,~1% drop
+20,30,EB_2024_ind67,67,21-May-24,Aerial,R3,6,0,,,0.983,1.357,~1% drop
+15,25,EB_2024_ind14,14,21-May-24,Aerial,R3,7,0,,,0.98,1.152,<1% drop
+15,30,EB_2024_ind30,30,21-May-24,Aerial,R3,8,0,,,NA,0.204,Flat line
+20,25,EB_2024_ind47,47,21-May-24,Aerial,R3,9,0,,,0.971,0.978,~1% drop
+,,,,,,,,,,,,,
+20,30,EB_2024_ind68,68,21-May-24,Aerial,R4,1,0,,,0.993,2.153,~1.5% drop
+15,25,EB_2024_ind16,16,21-May-24,Aerial,R4,2,0,,,0.996,1.699,~1.5% drop
+15,30,EB_2024_ind32,32,21-May-24,Aerial,R4,3,0,,,0.994,2.002,~1.5% drop
+20,25,EB_2024_ind51,51,21-May-24,Aerial,R4,4,0,,,0.998,2.254,~2% drop
+20,30,EB_2024_ind70,70,21-May-24,Aerial,R4,5,0,,,0.992,0.817,~1.5% drop
+15,25,EB_2024_ind17,17,21-May-24,Aerial,R4,6,0,,,0.993,1.926,~1.5% drop
+15,30,EB_2024_ind35,35,21-May-24,Aerial,R4,7,0,,,0.998,1.937,~2% drop
+20,25,EB_2024_ind52,52,21-May-24,Aerial,R4,8,0,,,0.994,0.794,~1% drop
+20,30,EB_2024_ind71,71,21-May-24,Aerial,R4,9,0,,,0.987,1.384,~1.5% drop
+,,,,,,,,,,,,,
+15,25,EB_2024_ind1,1,22-May-24,Second Aquatic,R1,1,30.696,-0.3642136,,0.926,,Lots of animals movement
+15,30,EB_2024_ind22,22,22-May-24,Second Aquatic,R1,2,30.696,-0.3572853,,0.994,,
+20,25,EB_2024_ind37,37,22-May-24,Second Aquatic,R1,3,30.696,-0.32746,,0.965,,Lots of animals movement
+20,30,EB_2024_ind55,55,22-May-24,Second Aquatic,R1,4,30.696,-0.3193454,,0.993,,
+15,25,EB_2024_ind4,4,22-May-24,Second Aquatic,R1,5,30.696,-0.2997206,,0.998,,
+15,30,EB_2024_ind23,23,22-May-24,Second Aquatic,R1,6,30.696,-0.1193252,,0.991,,
+20,25,EB_2024_ind39,39,22-May-24,Second Aquatic,R1,7,30.696,-0.1190743,,0.964,,Lots of animals movement
+20,30,EB_2024_ind56,56,22-May-24,Second Aquatic,R1,8,30.696,-0.4100042,,0.997,,
+15,25,EB_2024_ind6,6,22-May-24,Second Aquatic,R1,9,30.696,-0.2292623,,1,,
+,,,,,,,,,,,,,
+15,30,EB_2024_ind25,25,22-May-24,Second Aquatic,R2,1,30.8,-0.2783413,,0.99,,
+20,25,EB_2024_ind40,40,22-May-24,Second Aquatic,R2,2,30.8,-0.3929839,,0.823,,Lots of animals movement
+20,30,EB_2024_ind58,58,22-May-24,Second Aquatic,R2,3,30.8,-0.248409,,0.995,,
+15,25,EB_2024_ind7,7,22-May-24,Second Aquatic,R2,4,30.8,-0.2610608,,0.995,,
+15,30,EB_2024_ind26,26,22-May-24,Second Aquatic,R2,5,30.8,-0.1726986,,0.573,,Lots of animals movement
+20,25,EB_2024_ind41,41,22-May-24,Second Aquatic,R2,6,30.8,-0.3967513,,0.972,,Lots of animals movement
+20,30,EB_2024_ind59,59,22-May-24,Second Aquatic,R2,7,30.8,-0.4229996,,1,,
+15,25,EB_2024_ind11,11,22-May-24,Second Aquatic,R2,8,30.8,-0.265846,,0.985,,
+15,30,EB_2024_ind28,28,22-May-24,Second Aquatic,R2,9,30.8,-0.2800885,,0.999,,
+,,,,,,,,,,,,,
+20,25,EB_2024_ind43,43,22-May-24,Second Aquatic,R3,1,30.8,-0.4540427,,0.981,,
+20,30,EB_2024_ind60,60,22-May-24,Second Aquatic,R3,2,30.8,-0.615523,,0.939,,Lots of animals movement
+15,25,EB_2024_ind12,12,22-May-24,Second Aquatic,R3,3,30.8,-0.3265301,,0.997,,
+15,30,EB_2024_ind29,29,22-May-24,Second Aquatic,R3,4,30.8,-0.2595247,,0.991,,
+20,25,EB_2024_ind46,46,22-May-24,Second Aquatic,R3,5,30.8,-0.2117317,,0.337,,Lots of animals movement
+20,30,EB_2024_ind67,67,22-May-24,Second Aquatic,R3,6,30.8,-0.2748205,,0.999,,
+15,25,EB_2024_ind14,14,22-May-24,Second Aquatic,R3,7,30.8,-0.3399917,,0.995,,
+15,30,EB_2024_ind30,30,22-May-24,Second Aquatic,R3,8,30.8,-0.199963,,0.997,,
+20,25,EB_2024_ind47,47,22-May-24,Second Aquatic,R3,9,30.8,-0.2416974,,0.997,,
+,,,,,,,,,,,,,
+20,30,EB_2024_ind68,68,22-May-24,Second Aquatic,R4,1,30.8,-0.5095944,,0.894,,Lots of animals movement
+15,25,EB_2024_ind16,16,22-May-24,Second Aquatic,R4,2,30.8,-0.4668759,,0.998,,
+15,30,EB_2024_ind32,32,22-May-24,Second Aquatic,R4,3,30.8,-0.4722659,,0.992,,
+20,25,EB_2024_ind51,51,22-May-24,Second Aquatic,R4,4,30.8,-0.4816896,,0.879,,Lots of animals movement
+20,30,EB_2024_ind70,70,22-May-24,Second Aquatic,R4,5,30.8,-0.1746141,,0.997,,
+15,25,EB_2024_ind17,17,22-May-24,Second Aquatic,R4,6,30.8,-0.528787,,0.995,,
+15,30,EB_2024_ind35,35,22-May-24,Second Aquatic,R4,7,30.8,-0.4474494,,0.98,,
+20,25,EB_2024_ind52,52,22-May-24,Second Aquatic,R4,8,30.8,-0.3285397,,0.997,,
+20,30,EB_2024_ind71,71,22-May-24,Second Aquatic,R4,9,30.8,-0.4126079,,0.995,,

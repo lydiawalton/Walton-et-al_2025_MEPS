@@ -1,0 +1,27 @@
+{
+    "id": "787BB84F",
+    "path": "~/GitHub/Walton-et-al_2025_MEPS-submission/MS Scripts/Pisaster_Body-temperatures_May2024.R",
+    "project_path": "MS Scripts/Pisaster_Body-temperatures_May2024.R",
+    "type": "r_source",
+    "hash": "1468761555",
+    "contents": "",
+    "dirty": false,
+    "created": 1740000571294.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "339,0",
+        "scrollLine": "310",
+        "docOutlineVisible": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1740000635,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1740000635843,
+    "read_only": false,
+    "read_only_alternatives": []
+}
