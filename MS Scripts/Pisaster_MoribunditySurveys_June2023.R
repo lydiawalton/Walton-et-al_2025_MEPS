@@ -78,6 +78,11 @@ corrplot(site.chisq$residuals, is.cor = FALSE)
 # - Eagle Bay has positive association with moribundity
 # - Strawberry Point has positive association with healthy individuals
 
+#We do have a low sample size at some sites
+#Run a Monte-Carlo simulation
+site.chisq.MC <- chisq.test(site.contable, simulate.p.value = TRUE, B = 10000)
+site.chisq.MC
+
 
 #### Month ----
 
@@ -108,6 +113,18 @@ corrplot(month.chisq$residuals, is.cor = FALSE)
 
 #Association between month and moribundity 
 # - August has positive association with moribundity
+
+#Month is not independent as sites were sampled multiple times so we violate that assumption of the chi-square test
+
+#Run a Monte-Carlo simulation
+month.chisq.MC <- chisq.test(month.contable, simulate.p.value = TRUE, B = 10000)
+month.chisq.MC
+
+
+
+
+
+
 
 
 
