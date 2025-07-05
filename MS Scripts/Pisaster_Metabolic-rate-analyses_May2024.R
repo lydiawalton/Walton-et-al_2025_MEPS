@@ -384,14 +384,18 @@ MR.boxplot.rsqrt98.adj <- metabolic.plotting.rsqrt98.adjustment %>%
   labs(x = "Treatment", y = expression(dot(M)*O[2] ~ "per g of AFDM")) +
   ylim(0.1, 0.45) +
   stat_n_text(mapping = (aes(x = Treatment, y = AFDM.MR.mLO2.hr.g)),
-    y.pos = 0.1, color = "black", family = "A") +
+    y.pos = 0.1, color = "black") +
   #Add panel label
   geom_text(label= "A", x = 0.6, y = 0.45, 
-            size = 5, family = "A", color = "black")+
+            size = 5, color = "black")+
   #Add panel shading
   annotate("rect", fill = "grey", alpha = 0.3, 
          xmin = -Inf, xmax = Inf,
-         ymin = -Inf, ymax = Inf)  
+         ymin = -Inf, ymax = Inf) +
+  #Add Tukey line
+  geom_segment(aes(x = 1, y = 0.41, xend = 2, yend = 0.41)) +
+  #Add sig.level
+  geom_text(label = "*", x = 1.5, y = 0.415, size = 5)
 
 MR.boxplot.rsqrt98.adj
 
@@ -418,10 +422,18 @@ MR.boxplot.rsqrt98.heat1 <- metabolic.plotting.rsqrt98.firstheat %>%
   labs(x = "Treatment", y = expression(dot(M)*O[2] ~ "per g of AFDM")) +
   ylim(0.1, 0.45) +
   stat_n_text(mapping = (aes(x = Treatment, y = AFDM.MR.mLO2.hr.g)),
-              y.pos = 0.1, color = "black", family = "A") +
+              y.pos = 0.1, color = "black") +
   #Add panel label
   geom_text(label= "B", x = 0.6, y = 0.45, 
-            size = 5, family = "A", color = "black") 
+            size = 5, color = "black") +
+  #Add Tukey line
+  geom_segment(aes(x = 2, y = 0.43, xend = 4, yend = 0.43)) +
+  geom_segment(aes(x = 1, y = 0.45, xend = 4, yend = 0.45)) +
+  geom_segment(aes(x = 1, y = 0.35, xend = 3, yend = 0.35)) +
+  #Add sig.level
+  geom_text(label = "*", x = 3, y = 0.435, size = 5) +
+  geom_text(label = "***", x = 2.5, y = 0.455, size = 5) +
+  geom_text(label = "***", x = 2, y = 0.355, size = 5)
 
 MR.boxplot.rsqrt98.heat1
 
@@ -446,7 +458,13 @@ MR.boxplot.rsqrt98.heat2 <- metabolic.plotting.rsqrt98.secondheat %>%
               y.pos = 0.1, color = "black", family = "A") +
   #Add panel label
   geom_text(label= "C", x = 0.6, y = 0.45, 
-            size = 5, family = "A", color = "black") 
+            size = 5, family = "A", color = "black") +
+  #Add Tukey line
+  geom_segment(aes(x = 2, y = 0.37, xend = 3, yend = 0.37)) +
+  geom_segment(aes(x = 1, y = 0.4, xend = 3, yend = 0.4)) +
+  #Add sig.level
+  geom_text(label = "*", x = 2.5, y = 0.375, size = 5) +
+  geom_text(label = "***", x = 2, y = 0.405, size = 5)
 
 MR.boxplot.rsqrt98.heat2
 
