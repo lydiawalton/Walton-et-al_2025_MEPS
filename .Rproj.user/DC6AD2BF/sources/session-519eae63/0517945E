@@ -3,7 +3,7 @@
     "path": "~/GitHub/Walton-et-al_2025_MEPS-submission/SuppMat Scripts/Air and SST trends and map.R",
     "project_path": "SuppMat Scripts/Air and SST trends and map.R",
     "type": "r_source",
-    "hash": "3484482126",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1740000679571.0,
@@ -12,8 +12,9 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "16,19",
-        "scrollLine": "0"
+        "cursorPosition": "26,18",
+        "scrollLine": "0",
+        "docOutlineVisible": "1"
     },
     "folds": "",
     "lastKnownWriteTime": 1740000701,

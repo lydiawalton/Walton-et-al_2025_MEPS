@@ -536,6 +536,8 @@ aerial.aov <- aov(percent.drop.O2 ~ Treatment*measurement.number,
 
 shapiro.test(aerial.aov$residuals) #almost Normal
 hist(aerial.aov$residuals)
+leveneTest(percent.drop.O2 ~ Treatment*measurement.number,
+           data = metabolic.master.aerial)
 
 summary(aerial.aov)
 

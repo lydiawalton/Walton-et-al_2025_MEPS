@@ -1,0 +1,19 @@
+site,month,life.stage,total.ind,total.healthy,total.moribund,air.temp,sst
+Eagle Bay,May,Adult,247,245,2,15.4,14.7
+Eagle Bay,May,Juvenile,5,5,0,15.4,14.7
+Grappler Narrows,May,Adult,38,38,0,17.8,15.2
+Grappler Narrows,May,Juvenile,5,5,0,17.8,15.2
+Strawberry Point,May,Adult,76,76,0,21,16.7
+Strawberry Point,May,Juvenile,0,0,0,21,16.7
+Eagle Bay,June,Adult,332,330,2,21.8,16.7
+Eagle Bay,June,Juvenile,13,13,0,21.8,16.7
+Grappler Narrows,June,Adult,56,56,0,19,14.6
+Grappler Narrows,June,Juvenile,61,61,0,19,14.6
+Strawberry Point,June,Adult,50,50,0,14.3,14.7
+Strawberry Point,June,Juvenile,1,1,0,14.3,14.7
+Eagle Bay,August,Adult,198,179,19,21.1,19.5
+Eagle Bay,August,Juvenile,48,44,4,21.1,19.5
+Grappler Narrows,August,Adult,79,75,4,23.5,17.6
+Grappler Narrows,August,Juvenile,70,68,2,23.5,17.6
+Strawberry Point,August,Adult,59,59,0,18.3,17.5
+Strawberry Point,August,Juvenile,1,1,0,18.3,17.5
